@@ -1,6 +1,8 @@
 # React + TypeScript + Vite
 
+This Web application is used to convert the image or pdf to different format
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+this app help the user who trying to change format for there imporatant dcocuments with there mobail phone as the mobail phone hav'nt these feature rightnow but this web - app or application can help them for converting there documents for web- uploadation to any website which they realy want 
 
 Currently, two official plugins are available:
 
